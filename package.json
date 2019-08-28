@@ -1,0 +1,29 @@
+{
+  "name": "upcoming-movies-api",
+  "version": "1.0.0",
+  "description": "api to get movies from TMDB API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biammsilva/upcoming-movies-api.git"
+  },
+  "keywords": [
+    "node",
+    "restapi",
+    "movies",
+    "arctouch"
+  ],
+  "author": "Biammsilva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biammsilva/upcoming-movies-api/issues"
+  },
+  "homepage": "https://github.com/biammsilva/upcoming-movies-api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
